@@ -5,4 +5,4 @@ Cristian's algorithm is a method for clock synchronisation which can be used in 
 More information at:
 http://en.wikipedia.org/wiki/Cristian%27s_algorithm
 
-A example is implemented in C language using Knoppix GNU/Linux as operating system.
+An example is implemented in C language using Knoppix GNU/Linux as operating system.
